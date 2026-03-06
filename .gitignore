@@ -1,0 +1,8 @@
+.DS_Store
+
+*.csv
+*.npy
+*.bin
+*.pt
+*.pklcoding-assignment4-release/fashion-mnist_train.csv
+coding-assignment4-release/fashion-mnist_train.csv
